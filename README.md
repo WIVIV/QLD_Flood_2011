@@ -18,12 +18,19 @@ To conduct the analysis, I utilised a combination of geospatial datasets. The 20
 By intersecting the flood extent shapefile with the cadastral dataset, I identified the properties within the flood-affected areas. Using the geocoded addresses from the GNAF Core dataset, I determined the LGAs, suburbs, and postcodes associated with these properties. This allowed me to quantify the impact of the flood on different geographical units and identify the most affected areas.
 
 ### Findings
-The analysis revealed the following key findings:
-
 The 2011 Queensland Flood impacted a significant number of properties across multiple LGAs, postcodes and suburbs. 
-![Example Image]([images/example.jpg](https://github.com/WIVIV/QLD_Flood_2011/blob/main/Assets/Images/count_by_lga_pie.png))
 
+#### Pie Chart of Imacted LGAs
+![Example Image](./Assets/Images/count_by_lga_pie.png)
 
+#### Imacted LGAs
+![Example Image](./Assets/Images/count_by_lga_bar.png)
+
+#### Imacted Postcodes
+![Example Image](./Assets/Images/count_by_postcode_bar.png)
+
+#### Count of Imacted Suburbs
+![Example Image](./Assets/Images/count_by_suburb_bar.png)
 
 The most impacted LGAs were [list of LGAs], which experienced widespread property damage.
 Several suburbs within the affected LGAs were heavily impacted by the flood, including [list of suburbs].
@@ -31,6 +38,7 @@ The flood also affected various postcodes, with the most impacted postcodes bein
 These findings provide valuable insights into the spatial distribution of the flood impact and can assist in identifying areas that require immediate attention for recovery and mitigation efforts.
 
 Flood Impact Map
+
 
 ### Conclusion
 By leveraging geospatial analysis techniques and utilizing diverse datasets, this project successfully assessed the impact of the 2011 Queensland Flood. The findings highlight the most affected LGAs, suburbs, and postcodes, providing crucial information for disaster management and recovery planning. This analysis can serve as a foundation for further studies on climate risk and inform decision-making processes aimed at reducing the impact of future floods in Queensland.
