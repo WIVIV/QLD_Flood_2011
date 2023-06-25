@@ -29,7 +29,7 @@ The 2011 Queensland Flood impacted a significant number of properties across mul
 #### Imacted Postcodes
 ![Example Image](./Assets/Images/count_by_postcode_bar.png)
 
-#### Count of Imacted Suburbs
+#### Imacted Suburbs
 ![Example Image](./Assets/Images/count_by_suburb_bar.png)
 
 The most impacted LGAs were [list of LGAs], which experienced widespread property damage.
