@@ -3,7 +3,7 @@
 ![2011 Queensland Flood](https://images.7news.com.au/publication/C-634419/640b82dde97011939916abbdc7d50294f1e86837.jpg)
 
 ### Summary
-In this project, I conducted a geospatial analysis of the 2011 Queensland Flood to determine the extent of the flood and identify the properties impacted by this natural disaster. The analysis utilised various datasets, including:
+In this project, I conducted a geospatial analysis of the 2011 Queensland Flood to determine the extent of the flood and identify the properties impacted by this natural disaster. The analysis utilised the following datasets:
 - [2011 Queensland Flood Extent](https://qldspatial.information.qld.gov.au/catalogue/custom/detail.page?fid={C3F4BC07-88B3-410C-904B-957933079AA8)
 - [GNAF Core](https://geoscape.com.au/data/g-naf-core/)
 - [Local government area boundaries - Queensland](https://qldspatial.information.qld.gov.au/catalogue/custom/detail.page?fid={3F3DBD69-647B-4833-B0A5-CC43D5E70699})
