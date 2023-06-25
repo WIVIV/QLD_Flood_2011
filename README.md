@@ -20,7 +20,11 @@ By intersecting the flood extent shapefile with the cadastral dataset, I identif
 ### Findings
 The analysis revealed the following key findings:
 
-The 2011 Queensland Flood impacted a significant number of properties across multiple LGAs.
+The 2011 Queensland Flood impacted a significant number of properties across multiple LGAs, postcodes and suburbs. 
+![Example Image]([images/example.jpg](https://github.com/WIVIV/QLD_Flood_2011/blob/main/Assets/Images/count_by_lga_pie.png))
+
+
+
 The most impacted LGAs were [list of LGAs], which experienced widespread property damage.
 Several suburbs within the affected LGAs were heavily impacted by the flood, including [list of suburbs].
 The flood also affected various postcodes, with the most impacted postcodes being [list of postcodes].
