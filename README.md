@@ -10,12 +10,12 @@ In this project, I conducted a geospatial analysis of the 2011 Queensland Flood 
 - [Cadastral data weekly - whole of State Queensland - GDA2020](https://qldspatial.information.qld.gov.au/catalogue/custom/detail.page?fid={FF9596F2-7387-4159-96AF-9ED6573ADD10})
 
 ### Background
-The 2011 Queensland Flood was a devastating natural disaster that occurred in the state of Queensland, Australia. It was triggered by heavy rainfall associated with a monsoon trough and a tropical low-pressure system, resulting in widespread flooding across several regions. The flood, which lasted from late December 2010 to early 2011, caused significant damage to infrastructure, homes, and agricultural land, and resulted in the loss of numerous lives.
+The 2011 Queensland Flood was a devastating natural disaster that occurred in the state of Queensland, Australia. It was triggered by heavy rainfall associated with a monsoon trough and a tropical low-pressure system, resulting in widespread flooding across several regions. The flood, which lasted from late December 2010 to early 2011, caused significant damage to infrastructure, homes, and agricultural land.
 
 ### Methodology
 To conduct the analysis, I utilised a combination of geospatial datasets. The 2011 flood extent shapefile provided information about the geographic extent of the flood. The GNAF Core dataset, which contains detailed geocoded addresses, enabled me to associate properties with their respective locations. The Queensland Cadastral dataset provided information on property boundaries, while the Local Government dataset contained administrative boundaries for LGAs.
 
-By intersecting the flood extent shapefile with the cadastral dataset, I identified the properties within the flood-affected areas. Using the geocoded addresses from the GNAF Core dataset, I determined the LGAs, suburbs, and postcodes associated with these properties. This allowed me to quantify the impact of the flood on different geographical units and identify the most affected areas.
+By intersecting the flood extent shapefile with the cadastral dataset, I identified the properties within the flood-affected areas. Using the addresses from the GNAF Core dataset (joined on Land Parcel ID), I determined the LGAs, suburbs, and postcodes associated with these properties. This allowed me to quantify the impact of the flood at a per property level and identify the most affected areas.
 
 ### Findings
 The 2011 Queensland Flood impacted a significant number of properties across multiple LGAs, postcodes and suburbs. 
@@ -39,8 +39,7 @@ The 2011 Queensland Flood impacted a significant number of properties across mul
 #### [Raw Data by LGA, Postcode and Suburb](./Assets/Excel/lga_postcode_suburb_counts.xlsx)
 
 ### Conclusion
-By leveraging geospatial analysis techniques and utilizing diverse datasets, this project successfully assessed the impact of the 2011 Queensland Flood. The findings highlight the most affected LGAs, suburbs, and postcodes, providing crucial information for disaster management and recovery planning. This analysis can serve as a foundation for further studies on climate risk and inform decision-making processes aimed at reducing the impact of future floods in Queensland.
-
+By leveraging geospatial analysis and utilising diverse datasets, this project successfully assessed the impact of the 2011 Queensland Flood. The findings highlight the most affected LGAs, suburbs, and postcodes. This analysis can serve as a foundation for further studies on climate risk and inform decision-making processes aimed at reducing the impact of future floods in Queensland.
 
 
 ### Attribution
