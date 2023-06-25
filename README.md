@@ -33,7 +33,7 @@ The 2011 Queensland Flood impacted a significant number of properties across mul
 ![Example Image](./Assets/Images/count_by_suburb_bar.png)
 
 #### Flood Impact Map - Imacted Properties in Postcode 4064
-
+[Example Image](./Assets/Images/map_4064.png)
 
 ### Conclusion
 By leveraging geospatial analysis techniques and utilizing diverse datasets, this project successfully assessed the impact of the 2011 Queensland Flood. The findings highlight the most affected LGAs, suburbs, and postcodes, providing crucial information for disaster management and recovery planning. This analysis can serve as a foundation for further studies on climate risk and inform decision-making processes aimed at reducing the impact of future floods in Queensland.
