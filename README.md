@@ -9,8 +9,6 @@ In this project, I conducted a geospatial analysis of the 2011 Queensland Flood 
 - [Local government area boundaries - Queensland](https://qldspatial.information.qld.gov.au/catalogue/custom/detail.page?fid={3F3DBD69-647B-4833-B0A5-CC43D5E70699})
 - [Cadastral data weekly - whole of State Queensland - GDA2020](https://qldspatial.information.qld.gov.au/catalogue/custom/detail.page?fid={FF9596F2-7387-4159-96AF-9ED6573ADD10})
 
-By combining these datasets, I was able to identify the most affected Local Government Areas (LGAs), suburbs, and postcodes.
-
 ### Background
 The 2011 Queensland Flood was a devastating natural disaster that occurred in the state of Queensland, Australia. It was triggered by heavy rainfall associated with a monsoon trough and a tropical low-pressure system, resulting in widespread flooding across several regions. The flood, which lasted from late December 2010 to early 2011, caused significant damage to infrastructure, homes, and agricultural land, and resulted in the loss of numerous lives.
 
