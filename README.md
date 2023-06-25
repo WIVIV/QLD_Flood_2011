@@ -20,19 +20,19 @@ By intersecting the flood extent shapefile with the cadastral dataset, I identif
 ### Findings
 The 2011 Queensland Flood impacted a significant number of properties across multiple LGAs, postcodes and suburbs. 
 
-#### Pie Chart of Imacted LGAs
+#### Pie Chart of Impacted LGAs
 ![Example Image](./Assets/Images/count_by_lga_pie.png)
 
-#### Imacted LGAs
+#### Impacted LGAs
 ![Example Image](./Assets/Images/count_by_lga_bar.png)
 
-#### Imacted Postcodes
+#### Impacted Postcodes
 ![Example Image](./Assets/Images/count_by_postcode_bar.png)
 
-#### Imacted Suburbs
+#### Impacted Suburbs
 ![Example Image](./Assets/Images/count_by_suburb_bar.png)
 
-#### Flood Impact Map - Imacted Properties in Postcode 4064
+#### Impacted Properties in Postcode 4064
 ![Example Image](./Assets/Images/map_4064.png)
 
 ### Conclusion
